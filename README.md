@@ -1,6 +1,6 @@
-# Progressive Form Enhancement With SvelteKit
+# Progressive Enhancement With SvelteKit
 
-✍️ https://joyofcode.xyz/sveltekit-progressive-form-enhancement
+✍️ https://joyofcode.xyz/sveltekit-progressive-enhancement
 
 Progressively enhance your forms in SvelteKit for a better user experience.
 
